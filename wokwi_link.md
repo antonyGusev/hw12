@@ -4,4 +4,4 @@ https://wokwi.com/projects/474969701907777537
 
 ## Screenrecord
 
-![Wokwi Screenrecord](https://drive.google.com/file/d/1evSXGIu73hXkmTeRSjsL5nfQXhRzlFx6/view?usp=drive_link)
+![Wokwi Screenrecord](Screen-Recording-2026-09-13-at-11.08.05.gif)
